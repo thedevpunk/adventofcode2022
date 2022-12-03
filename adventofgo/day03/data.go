@@ -1,6 +1,6 @@
-package day02
+package day03
 
-var Values = "0abcdefghijklmnopqurtuvwxyzABCDEFGHIJKLMNOP"
+var Values = "0abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 var Input = `gtZDjBcmpcDgpZcmmbgtdtqmCGVCGGsvhCFCCqvmCMMM
 JrhfzfLTNfJhPnhQnfzHfCFFQFSGvMFCGQFsQSMSVs
